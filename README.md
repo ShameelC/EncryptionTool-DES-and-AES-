@@ -25,13 +25,19 @@ Install the required libraries using pip:
 ```bash
 pip install cryptography ipywidgets
 
-Encryption:
+---
+
+## **Encryption:**
+
   Choose Algorithm (AES/DES): AES
   Enter plaintext to encrypt: Hello World
   Enter password: mysecretpassword
   Encrypted Message: [encrypted_text_here]
 
-Decryption:
+---
+
+## **Decryption:**
+
   Choose Algorithm (AES/DES): AES
   Enter ciphertext to decrypt: [encrypted_text_here]
   Enter password: mysecretpassword
